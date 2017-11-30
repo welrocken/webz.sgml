@@ -1,0 +1,8 @@
+C:\Users\Eyüp Türker\Documents\GitHub\webz.sgml\src\webz-sgml\Sgml\bin\Debug\SgmlReaderDll.dll
+C:\Users\Eyüp Türker\Documents\GitHub\webz.sgml\src\webz-sgml\Sgml\bin\Debug\Webz.Core.dll
+C:\Users\Eyüp Türker\Documents\GitHub\webz.sgml\src\webz-sgml\Sgml\obj\Debug\Sgml.csprojResolveAssemblyReference.cache
+C:\Users\Eyüp Türker\Documents\GitHub\webz.sgml\src\webz-sgml\Sgml\obj\Debug\Sgml.csproj.CoreCompileInputs.cache
+C:\Users\Eyüp Türker\Documents\GitHub\webz.sgml\src\webz-sgml\Sgml\bin\Debug\Webz.Sgml.dll
+C:\Users\Eyüp Türker\Documents\GitHub\webz.sgml\src\webz-sgml\Sgml\bin\Debug\Webz.Sgml.pdb
+C:\Users\Eyüp Türker\Documents\GitHub\webz.sgml\src\webz-sgml\Sgml\obj\Debug\Webz.Sgml.dll
+C:\Users\Eyüp Türker\Documents\GitHub\webz.sgml\src\webz-sgml\Sgml\obj\Debug\Webz.Sgml.pdb
